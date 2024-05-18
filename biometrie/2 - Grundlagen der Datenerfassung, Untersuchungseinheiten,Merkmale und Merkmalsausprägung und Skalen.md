@@ -1,4 +1,5 @@
 
+
 ## Was ist Statistische Erhebung?
 
 Wir wissen, dass es verschiedene Daten und Informationen gibt. Diese Daten müssen aber erstmal erhoben werden. Informationen existieren nicht einfach so. Jemand muss die Daten sammeln/beschaffen/generieren. Es gibt verschiedene Formen von Datenerhebungen.
@@ -81,3 +82,29 @@ z.B. Wenn ich als Untersuchungseinheiten Patienten mit Diabetes Typ 2 habe, dann
 
 ![[Pasted image 20240518164447.png]]
 
+Die Merkmalswerte lassen sich in 2 Kategorien aufteilen: **Qualitative** und **Quantitative** Merkmale.
+Nehmen Merkmale numerische Werte an, dann sind Sie quantitativ. Sie unterscheiden sich durch ihre Größe.
+Qualitative sind nicht-numerisch und unterscheiden sich durch ihre Art. Das wäre zum Beispiel das Geschlecht, Namen, Religionen, Therapien ...
+
+Man unterteilt Sie weiter in ...
+
+- **metrische** Skala: die Werte unterliegen einer Rangfolge
+und die Abstände zwischen den Werten der Skala lassen
+sich interpretieren.
+z.B. Gewicht, Milchleistung, Betriebsgröße, Keimzahlen, …
+- **ordinale** (oder semiquantitative) Skala: die Werte
+unterliegen einer Rangfolge, aber die Abstände zwischen
+den Werten der Skala lassen sich nicht interpretieren. Man hat Rangfolge aber keine Abstände.
+ Bewertung (Bonituren, Noten), Gesundheitszustand, Grad
+der Belastung mit Keimen (-, +, ++, +++)
+- **nominale Skala**: die Werte unterliegen keiner Rangfolge
+und sind nicht vergleichbar.
+Namen, Geschlecht, Rasse, Haltungsform, Therapieform,
+pathologische Klassifikationen
+
+Der *Abstand* unterscheidet quantitative von qualitativen Merkmalen.
+*Rangfolge* unterscheidet Ordinal von Nominal.
+
+Statig und diskret unterscheiden sich dadurch, dass **diskrete Werte keine Kommawerte** hat. **Stetige Werte hingegen können beliebige Nackkommastellenwerte** annehmen.
+
+***Zahlen sind nicht immer quantitativ***. Man kann qualitative Werte codieren. Man kann Hunde und Katzen als 1 und 2 codieren. Das sind aber weiterhin qualitative Werte. Einen Mittelwert zu berechnen macht also keinen Sinn. Schulnoten haben eine Reihenfolge, aber ihre Abstände sind nicht interpretierbar. Schulnoten sind deshalb qualitativ ordinal.

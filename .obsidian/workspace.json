@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biometrie/2 - Grundlagen der Datenerfassung, Untersuchungseinheiten,Merkmale und Merkmalsausprägung und Skalen.md",
+                "file": "biometrie/3 - Lagemasse.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biometrie/2 - Grundlagen der Datenerfassung, Untersuchungseinheiten,Merkmale und Merkmalsausprägung und Skalen.md",
+                "file": "biometrie/3 - Lagemasse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biometrie/2 - Grundlagen der Datenerfassung, Untersuchungseinheiten,Merkmale und Merkmalsausprägung und Skalen.md",
+                "file": "biometrie/3 - Lagemasse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biometrie/2 - Grundlagen der Datenerfassung, Untersuchungseinheiten,Merkmale und Merkmalsausprägung und Skalen.md"
+                "file": "biometrie/3 - Lagemasse.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "72b492e35e7c59a2",
   "lastOpenFiles": [
+    "biometrie/2 - Grundlagen der Datenerfassung, Untersuchungseinheiten,Merkmale und Merkmalsausprägung und Skalen.md",
+    "biometrie/3 - Lagemasse.md",
     "attachments/Pasted image 20240518164447.png",
     "attachments",
     "biometrie/1 -Was ist Biometie und Epidemiologie?Was ist Statistik?.md",
-    "biometrie/2 - Grundlagen der Datenerfassung, Untersuchungseinheiten,Merkmale und Merkmalsausprägung und Skalen.md",
     "biometrie"
   ]
 }
