@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "75e413cf3f1a916c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2c45d97e13a273c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72b492e35e7c59a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "biometrie/2 - Grundlagen der Datenerfassung, Untersuchungseinheiten,Merkmale und Merkmalsausprägung und Skalen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "123710a0ec3cf96c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a19d31334be3140c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07d3ae424c4d673b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd845c00c5e01881",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "283a5b931db6faf8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1747ab7f9922430a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1afc396b1bf33e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0a05cd1dd53e21e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "biometrie/2 - Grundlagen der Datenerfassung, Untersuchungseinheiten,Merkmale und Merkmalsausprägung und Skalen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91a6cfb4b94338d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "biometrie/2 - Grundlagen der Datenerfassung, Untersuchungseinheiten,Merkmale und Merkmalsausprägung und Skalen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a7b889ab89caebf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1cfa299dd282e568",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "biometrie/2 - Grundlagen der Datenerfassung, Untersuchungseinheiten,Merkmale und Merkmalsausprägung und Skalen.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "72b492e35e7c59a2",
+  "lastOpenFiles": [
+    "attachments/Pasted image 20240518164447.png",
+    "attachments",
+    "biometrie/1 -Was ist Biometie und Epidemiologie?Was ist Statistik?.md",
+    "biometrie/2 - Grundlagen der Datenerfassung, Untersuchungseinheiten,Merkmale und Merkmalsausprägung und Skalen.md",
+    "biometrie"
+  ]
+}
