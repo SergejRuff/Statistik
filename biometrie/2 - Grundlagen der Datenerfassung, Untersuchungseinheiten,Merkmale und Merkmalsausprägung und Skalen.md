@@ -37,7 +37,8 @@ Die Untersuchungseinheiten/ Individuen in den Samples sind ursprünglich Teil gr
 
 - **Grundgesamtheit / Zielpopulation**
 = Gesamtmenge der statistischen Einheiten, für die das
-Ergebnis der Erhebung gültig sein soll. Sämtlichen Individuen, die man theoretisch für eine Statistik nutzen könnte, dienen als Population. Diese sind aber zu groß.
+Ergebnis der Erhebung gültig sein soll. Sämtlichen Individuen, die man theoretisch für eine Statistik nutzen könnte, dienen als Population. Diese sind aber in der Regel zu groß.
+Wichtig: "die das Ergebnis der Erhebung gültig sein soll". Alle Individuen, die die EInschlusskriterien erfüllen, gehören zur Population. Population ist also davon abhängig, wie ich die gewünschten Individuen, die ich untersuchen will, definiere. 
 
 Falls keine *Vollerhebung*, d.h. die Erhebung sämtlicher
 statistischer Einheiten erfolgt, so zieht man eine
